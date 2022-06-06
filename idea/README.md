@@ -25,6 +25,6 @@ For your reference and better understanding I have also attached the app layouts
    Have any feedback, any suggestions? Or just want to connect?
    Head over to my [LinkedIn](linkedin.com/in/ananya-gupta-497ab7229) or [Github profile](https://github.com/Ana4506)
 
-<img src="https://user-images.githubusercontent.com/89125989/172112834-4e9b9f44-2b03-4eb1-8033-2b9f346e8556.png" width="100" height="120">
+<img src="https://user-images.githubusercontent.com/89125989/172112834-4e9b9f44-2b03-4eb1-8033-2b9f346e8556.png" width="100" height="70">
 
 
