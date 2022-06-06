@@ -4,14 +4,14 @@
 A women service based app built on flutter. NewRoots aims to incentivises women of India to pay their part and quiver the roots of unemployement.
 
 Built during the Azure Women's Hackathon 2022 organised by Microsoft. 
-Please note that I had 2 months to make this app in which I had to learn, ideate, design and develop the app all by myself. I have built a base app.
+Please note that I had 20 days to make this app as I got to know about this hackathon little later in which I had to learn, ideate, design and develop the app all by myself. My ideation is fully complete but my app isn't. I have built a base app.
 
 For your reference and better understanding I have also attached the app layouts.
 
 🔗 Relevant links 
-   1. Demo Video - 
+   1. Demo Video - [Click Here](https://drive.google.com/file/d/1n8eitA70h2_lClQbRlNWh8SLhxQYalBB/view?usp=sharing)
    2. Powerpoint Presentation - [Click Here](https://drive.google.com/file/d/1EofIBeHKW90-e2ckvlw35QvIUeo2-Jad/view?usp=sharing)
-   3. Source Code - 
+   3. Source Code - [Click Here](https://drive.google.com/drive/folders/1hD0-2tW12Fra8SRCGCqHem-wwlfrMI38?usp=sharing)
    4. App Layouts - [Click Here](https://drive.google.com/file/d/1MvWL52K1BJvL8sewsCM8rBDYOyUeReXF/view?usp=sharing)
    
 ## 🤔 Why NewRoots?
